@@ -3,6 +3,8 @@
 ## About
 
 I created this simple app for an Udacity class project. It is basically a mini quiz with four questions about superheroes.
+Obs: In this project I intentionally used LinearLayout to undestand better this kind of view and related attributes, but I'm aware I could use ConstraintLayout too (for best practice).
+
 The main objectives was to practice the following things:
 
 - Kotlin language (if/else, when and the syntax)
