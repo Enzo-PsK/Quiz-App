@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="iron_man">Iron Man</string>
+    <string name="hulk">Hulk</string>
+    <string name="thor">Thor</string>
+    <string name="spider_man">Spider Man</string>
+    <string name="next">NEXT</string>
+    <string name="radio_true">True</string>
+    <string name="radio_false">False</string>
+</resources>
