@@ -10,6 +10,8 @@ The main objectives was to practice the following things:
 - ViewGroups and nested ViewGroups
 - View Bindind
 - Explicit Intents
+- Toasts
+- Log and other debug utilities
  
 ## Built with
 
